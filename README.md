@@ -48,8 +48,8 @@ Application `server-note-router` or Express.js (v4.19.2) Server Note Routes appl
 ## GitHub Repository 
 [![GitHub](https://img.shields.io/badge/logo-GitHub-white?logo=github&logoColor=black&style=flat&label=server-note-router&labelColor=white&color=red)](https://github.com/strahinjapopovic/server-note-router)
 
-## Git Bash Terminal setting up origin main
-[<img src="./images/screenshots/gitbash-cli-remote-origin-main.PNG" width="1200" alt="Git Bash Terminal screenshot." />](./images/screenshots/gitbash-cli-remote-origin-main.PNG)
+## Git Bash Terminal setting up remote origin main
+[<img src="./screenshots/gitbash-setting-up-remote-origin-main-1.PNG" width="1200" alt="Git Bash Terminal screenshot." />](./screenshots/gitbash-setting-up-remote-origin-main-1.PNG)
 
 <a id="installation-process"></a>
 ## Installation Process
