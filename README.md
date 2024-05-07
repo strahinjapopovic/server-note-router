@@ -58,10 +58,10 @@ Application `server-note-router` or Express.js (v4.19.2) Server Note Routes appl
 ## Prebuild Installer Node.js® installation
 Download Node.js version v20.12.2, v21.7.3 or v22.0.0 from [Node.js®-v22.0.0 ](https://nodejs.org/en) official website and install at your local machine with Prebuilt Installer. It will include npm (v10.5.0) or npm (v10.5.1) depends on node.js version instolled. Then run those commands below. I use Git-Bash terminal and my default approximate `PS1` or `$PS1` (Prompt String 1) variable looks like `[user@host: ~] /c/Users/user/dev/server-note-router/app> (main) $`, so left dollar sign out of any coppied code that has to be runned, if any.
 
-Initializing npm in the repo and installing express.js framework
+Navigate to the `~/app>` directory initialize npm in the root dir and install express.js framework
 ```bash
 npm init -y
-npm install -D express # express.js framework packages setting up environment for server-side development
+npm install -D express # express.js framework packages setting up environment for server-side development (options: [-D <development> || -P <production>]).
 ```
 
 Make changes in the `package.json` if you are going to use ECMAScript modules code for packages as `import/export` instead of `module.exports`, do as follows:
@@ -94,7 +94,7 @@ npm start # starting server application from server.js file
 <a id="usage-info"></a>
 ## Usage Info
 
-Application can be used for recording notes to better manage your time during the day and over the week.
+Application can be used for recording notes to better manage your time during the day and over the week. Deployed applicaton can be accessed over following link [On Render Live Web Service](https://server-note-router.onrender.com/).
 
 <a id="contributing-guidelines"></a>
 ## Contributing Guidelines
